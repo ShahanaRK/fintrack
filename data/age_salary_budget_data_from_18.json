@@ -1,0 +1,1542 @@
+[
+  {
+    "ageRange": "18-22",
+    "salaryRange": "0-15000",
+    "budget": {
+      "expenses": {
+        "food": 30,
+        "transport": 25,
+        "medical": 5,
+        "personal": 30,
+        "miscellaneous": 10
+      },
+      "savings": 15,
+      "savingsSplit": {
+        "emergencyFund": 50,
+        "shortTerm": 30,
+        "midTerm": 15,
+        "longTerm": 5
+      }
+    }
+  },
+  {
+    "ageRange": "18-22",
+    "salaryRange": "15001-30000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 25,
+      "savingsSplit": {
+        "emergencyFund": 45,
+        "shortTerm": 35,
+        "midTerm": 15,
+        "longTerm": 5
+      }
+    }
+  },
+  {
+    "ageRange": "18-22",
+    "salaryRange": "30001-50000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 30,
+      "savingsSplit": {
+        "emergencyFund": 40,
+        "shortTerm": 40,
+        "midTerm": 15,
+        "longTerm": 5
+      }
+    }
+  },
+  {
+    "ageRange": "18-22",
+    "salaryRange": "50001-75000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 35,
+      "savingsSplit": {
+        "emergencyFund": 38,
+        "shortTerm": 38,
+        "midTerm": 17,
+        "longTerm": 7
+      }
+    }
+  },
+  {
+    "ageRange": "18-22",
+    "salaryRange": "75001-100000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 40,
+      "savingsSplit": {
+        "emergencyFund": 35,
+        "shortTerm": 35,
+        "midTerm": 20,
+        "longTerm": 10
+      }
+    }
+  },
+  {
+    "ageRange": "18-22",
+    "salaryRange": "100001-150000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 45,
+      "savingsSplit": {
+        "emergencyFund": 35,
+        "shortTerm": 35,
+        "midTerm": 20,
+        "longTerm": 10
+      }
+    }
+  },
+  {
+    "ageRange": "18-22",
+    "salaryRange": "150001+",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 50,
+      "savingsSplit": {
+        "emergencyFund": 35,
+        "shortTerm": 35,
+        "midTerm": 20,
+        "longTerm": 10
+      }
+    }
+  },
+  {
+    "ageRange": "23-27",
+    "salaryRange": "0-15000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 20,
+      "savingsSplit": {
+        "emergencyFund": 40,
+        "shortTerm": 40,
+        "midTerm": 15,
+        "longTerm": 5
+      }
+    }
+  },
+  {
+    "ageRange": "23-27",
+    "salaryRange": "15001-30000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 25,
+      "savingsSplit": {
+        "emergencyFund": 35,
+        "shortTerm": 50,
+        "midTerm": 20,
+        "longTerm": 5
+      }
+    }
+  },
+  {
+    "ageRange": "23-27",
+    "salaryRange": "30001-50000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 30,
+      "savingsSplit": {
+        "emergencyFund": 30,
+        "shortTerm": 40,
+        "midTerm": 20,
+        "longTerm": 10
+      }
+    }
+  },
+  {
+    "ageRange": "23-27",
+    "salaryRange": "50001-75000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 35,
+      "savingsSplit": {
+        "emergencyFund": 28,
+        "shortTerm": 38,
+        "midTerm": 24,
+        "longTerm": 10
+      }
+    }
+  },
+  {
+    "ageRange": "23-27",
+    "salaryRange": "75001-100000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 40,
+      "savingsSplit": {
+        "emergencyFund": 25,
+        "shortTerm": 35,
+        "midTerm": 30,
+        "longTerm": 10
+      }
+    }
+  },
+  {
+    "ageRange": "23-27",
+    "salaryRange": "100001-150000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 45,
+      "savingsSplit": {
+        "emergencyFund": 25,
+        "shortTerm": 35,
+        "midTerm": 30,
+        "longTerm": 10
+      }
+    }
+  },
+  {
+    "ageRange": "23-27",
+    "salaryRange": "150001+",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 50,
+      "savingsSplit": {
+        "emergencyFund": 25,
+        "shortTerm": 35,
+        "midTerm": 30,
+        "longTerm": 10
+      }
+    }
+  },
+  {
+    "ageRange": "28-32",
+    "salaryRange": "0-15000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 20,
+      "savingsSplit": {
+        "emergencyFund": 35,
+        "shortTerm": 35,
+        "midTerm": 25,
+        "longTerm": 5
+      }
+    }
+  },
+  {
+    "ageRange": "28-32",
+    "salaryRange": "15001-30000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 25,
+      "savingsSplit": {
+        "emergencyFund": 30,
+        "shortTerm": 35,
+        "midTerm": 25,
+        "longTerm": 10
+      }
+    }
+  },
+  {
+    "ageRange": "28-32",
+    "salaryRange": "30001-50000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 30,
+      "savingsSplit": {
+        "emergencyFund": 25,
+        "shortTerm": 35,
+        "midTerm": 30,
+        "longTerm": 10
+      }
+    }
+  },
+  {
+    "ageRange": "28-32",
+    "salaryRange": "50001-75000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 35,
+      "savingsSplit": {
+        "emergencyFund": 23,
+        "shortTerm": 32,
+        "midTerm": 35,
+        "longTerm": 10
+      }
+    }
+  },
+  {
+    "ageRange": "28-32",
+    "salaryRange": "75001-100000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 40,
+      "savingsSplit": {
+        "emergencyFund": 20,
+        "shortTerm": 30,
+        "midTerm": 40,
+        "longTerm": 10
+      }
+    }
+  },
+  {
+    "ageRange": "28-32",
+    "salaryRange": "100001-150000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 45,
+      "savingsSplit": {
+        "emergencyFund": 20,
+        "shortTerm": 30,
+        "midTerm": 40,
+        "longTerm": 10
+      }
+    }
+  },
+  {
+    "ageRange": "28-32",
+    "salaryRange": "150001+",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 50,
+      "savingsSplit": {
+        "emergencyFund": 20,
+        "shortTerm": 30,
+        "midTerm": 40,
+        "longTerm": 10
+      }
+    }
+  },
+  {
+    "ageRange": "33-37",
+    "salaryRange": "0-15000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 20,
+      "savingsSplit": {
+        "emergencyFund": 20,
+        "shortTerm": 25,
+        "midTerm": 35,
+        "longTerm": 20
+      }
+    }
+  },
+  {
+    "ageRange": "33-37",
+    "salaryRange": "15001-30000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 25,
+      "savingsSplit": {
+        "emergencyFund": 20,
+        "shortTerm": 25,
+        "midTerm": 35,
+        "longTerm": 20
+      }
+    }
+  },
+  {
+    "ageRange": "33-37",
+    "salaryRange": "30001-50000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 30,
+      "savingsSplit": {
+        "emergencyFund": 20,
+        "shortTerm": 25,
+        "midTerm": 35,
+        "longTerm": 20
+      }
+    }
+  },
+  {
+    "ageRange": "33-37",
+    "salaryRange": "50001-75000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 35,
+      "savingsSplit": {
+        "emergencyFund": 20,
+        "shortTerm": 25,
+        "midTerm": 35,
+        "longTerm": 20
+      }
+    }
+  },
+  {
+    "ageRange": "33-37",
+    "salaryRange": "75001-100000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 40,
+      "savingsSplit": {
+        "emergencyFund": 20,
+        "shortTerm": 25,
+        "midTerm": 35,
+        "longTerm": 20
+      }
+    }
+  },
+  {
+    "ageRange": "33-37",
+    "salaryRange": "100001-150000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 45,
+      "savingsSplit": {
+        "emergencyFund": 20,
+        "shortTerm": 25,
+        "midTerm": 35,
+        "longTerm": 20
+      }
+    }
+  },
+  {
+    "ageRange": "33-37",
+    "salaryRange": "150001+",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 50,
+      "savingsSplit": {
+        "emergencyFund": 20,
+        "shortTerm": 25,
+        "midTerm": 35,
+        "longTerm": 20
+      }
+    }
+  },
+  {
+    "ageRange": "38-42",
+    "salaryRange": "0-15000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 20,
+      "savingsSplit": {
+        "emergencyFund": 15,
+        "shortTerm": 20,
+        "midTerm": 35,
+        "longTerm": 30
+      }
+    }
+  },
+  {
+    "ageRange": "38-42",
+    "salaryRange": "15001-30000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 25,
+      "savingsSplit": {
+        "emergencyFund": 15,
+        "shortTerm": 20,
+        "midTerm": 35,
+        "longTerm": 30
+      }
+    }
+  },
+  {
+    "ageRange": "38-42",
+    "salaryRange": "30001-50000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 30,
+      "savingsSplit": {
+        "emergencyFund": 15,
+        "shortTerm": 20,
+        "midTerm": 35,
+        "longTerm": 30
+      }
+    }
+  },
+  {
+    "ageRange": "38-42",
+    "salaryRange": "50001-75000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 35,
+      "savingsSplit": {
+        "emergencyFund": 15,
+        "shortTerm": 20,
+        "midTerm": 35,
+        "longTerm": 30
+      }
+    }
+  },
+  {
+    "ageRange": "38-42",
+    "salaryRange": "75001-100000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 40,
+      "savingsSplit": {
+        "emergencyFund": 15,
+        "shortTerm": 20,
+        "midTerm": 35,
+        "longTerm": 30
+      }
+    }
+  },
+  {
+    "ageRange": "38-42",
+    "salaryRange": "100001-150000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 45,
+      "savingsSplit": {
+        "emergencyFund": 15,
+        "shortTerm": 20,
+        "midTerm": 35,
+        "longTerm": 30
+      }
+    }
+  },
+  {
+    "ageRange": "38-42",
+    "salaryRange": "150001+",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 50,
+      "savingsSplit": {
+        "emergencyFund": 15,
+        "shortTerm": 20,
+        "midTerm": 35,
+        "longTerm": 30
+      }
+    }
+  },
+  {
+    "ageRange": "43-47",
+    "salaryRange": "0-15000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 20,
+      "savingsSplit": {
+        "emergencyFund": 10,
+        "shortTerm": 20,
+        "midTerm": 30,
+        "longTerm": 40
+      }
+    }
+  },
+  {
+    "ageRange": "43-47",
+    "salaryRange": "15001-30000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 25,
+      "savingsSplit": {
+        "emergencyFund": 10,
+        "shortTerm": 20,
+        "midTerm": 30,
+        "longTerm": 40
+      }
+    }
+  },
+  {
+    "ageRange": "43-47",
+    "salaryRange": "30001-50000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 30,
+      "savingsSplit": {
+        "emergencyFund": 10,
+        "shortTerm": 20,
+        "midTerm": 30,
+        "longTerm": 40
+      }
+    }
+  },
+  {
+    "ageRange": "43-47",
+    "salaryRange": "50001-75000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 35,
+      "savingsSplit": {
+        "emergencyFund": 10,
+        "shortTerm": 20,
+        "midTerm": 30,
+        "longTerm": 40
+      }
+    }
+  },
+  {
+    "ageRange": "43-47",
+    "salaryRange": "75001-100000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 40,
+      "savingsSplit": {
+        "emergencyFund": 10,
+        "shortTerm": 20,
+        "midTerm": 30,
+        "longTerm": 40
+      }
+    }
+  },
+  {
+    "ageRange": "43-47",
+    "salaryRange": "100001-150000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 45,
+      "savingsSplit": {
+        "emergencyFund": 10,
+        "shortTerm": 20,
+        "midTerm": 30,
+        "longTerm": 40
+      }
+    }
+  },
+  {
+    "ageRange": "43-47",
+    "salaryRange": "150001+",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 50,
+      "savingsSplit": {
+        "emergencyFund": 10,
+        "shortTerm": 20,
+        "midTerm": 30,
+        "longTerm": 40
+      }
+    }
+  },
+  {
+    "ageRange": "48-52",
+    "salaryRange": "0-15000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 20,
+      "savingsSplit": {
+        "emergencyFund": 10,
+        "shortTerm": 15,
+        "midTerm": 25,
+        "longTerm": 50
+      }
+    }
+  },
+  {
+    "ageRange": "48-52",
+    "salaryRange": "15001-30000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 25,
+      "savingsSplit": {
+        "emergencyFund": 10,
+        "shortTerm": 15,
+        "midTerm": 25,
+        "longTerm": 50
+      }
+    }
+  },
+  {
+    "ageRange": "48-52",
+    "salaryRange": "30001-50000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 30,
+      "savingsSplit": {
+        "emergencyFund": 10,
+        "shortTerm": 15,
+        "midTerm": 25,
+        "longTerm": 50
+      }
+    }
+  },
+  {
+    "ageRange": "48-52",
+    "salaryRange": "50001-75000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 35,
+      "savingsSplit": {
+        "emergencyFund": 10,
+        "shortTerm": 15,
+        "midTerm": 25,
+        "longTerm": 50
+      }
+    }
+  },
+  {
+    "ageRange": "48-52",
+    "salaryRange": "75001-100000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 40,
+      "savingsSplit": {
+        "emergencyFund": 10,
+        "shortTerm": 15,
+        "midTerm": 25,
+        "longTerm": 50
+      }
+    }
+  },
+  {
+    "ageRange": "48-52",
+    "salaryRange": "100001-150000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 45,
+      "savingsSplit": {
+        "emergencyFund": 10,
+        "shortTerm": 15,
+        "midTerm": 25,
+        "longTerm": 50
+      }
+    }
+  },
+  {
+    "ageRange": "48-52",
+    "salaryRange": "150001+",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 50,
+      "savingsSplit": {
+        "emergencyFund": 10,
+        "shortTerm": 15,
+        "midTerm": 25,
+        "longTerm": 50
+      }
+    }
+  },
+  {
+    "ageRange": "53-57",
+    "salaryRange": "0-15000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 20,
+      "savingsSplit": {
+        "emergencyFund": 10,
+        "shortTerm": 10,
+        "midTerm": 20,
+        "longTerm": 60
+      }
+    }
+  },
+  {
+    "ageRange": "53-57",
+    "salaryRange": "15001-30000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 25,
+      "savingsSplit": {
+        "emergencyFund": 10,
+        "shortTerm": 10,
+        "midTerm": 20,
+        "longTerm": 60
+      }
+    }
+  },
+  {
+    "ageRange": "53-57",
+    "salaryRange": "30001-50000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 30,
+      "savingsSplit": {
+        "emergencyFund": 10,
+        "shortTerm": 10,
+        "midTerm": 20,
+        "longTerm": 60
+      }
+    }
+  },
+  {
+    "ageRange": "53-57",
+    "salaryRange": "50001-75000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 35,
+      "savingsSplit": {
+        "emergencyFund": 10,
+        "shortTerm": 10,
+        "midTerm": 20,
+        "longTerm": 60
+      }
+    }
+  },
+  {
+    "ageRange": "53-57",
+    "salaryRange": "75001-100000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 40,
+      "savingsSplit": {
+        "emergencyFund": 10,
+        "shortTerm": 10,
+        "midTerm": 20,
+        "longTerm": 60
+      }
+    }
+  },
+  {
+    "ageRange": "53-57",
+    "salaryRange": "100001-150000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 45,
+      "savingsSplit": {
+        "emergencyFund": 10,
+        "shortTerm": 10,
+        "midTerm": 20,
+        "longTerm": 60
+      }
+    }
+  },
+  {
+    "ageRange": "53-57",
+    "salaryRange": "150001+",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 50,
+      "savingsSplit": {
+        "emergencyFund": 10,
+        "shortTerm": 10,
+        "midTerm": 20,
+        "longTerm": 60
+      }
+    }
+  },
+  {
+    "ageRange": "58-62",
+    "salaryRange": "0-15000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 20,
+      "savingsSplit": {
+        "emergencyFund": 10,
+        "shortTerm": 5,
+        "midTerm": 15,
+        "longTerm": 70
+      }
+    }
+  },
+  {
+    "ageRange": "58-62",
+    "salaryRange": "15001-30000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 25,
+      "savingsSplit": {
+        "emergencyFund": 10,
+        "shortTerm": 5,
+        "midTerm": 15,
+        "longTerm": 70
+      }
+    }
+  },
+  {
+    "ageRange": "58-62",
+    "salaryRange": "30001-50000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 30,
+      "savingsSplit": {
+        "emergencyFund": 10,
+        "shortTerm": 5,
+        "midTerm": 15,
+        "longTerm": 70
+      }
+    }
+  },
+  {
+    "ageRange": "58-62",
+    "salaryRange": "50001-75000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 35,
+      "savingsSplit": {
+        "emergencyFund": 10,
+        "shortTerm": 5,
+        "midTerm": 15,
+        "longTerm": 70
+      }
+    }
+  },
+  {
+    "ageRange": "58-62",
+    "salaryRange": "75001-100000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 40,
+      "savingsSplit": {
+        "emergencyFund": 10,
+        "shortTerm": 5,
+        "midTerm": 15,
+        "longTerm": 70
+      }
+    }
+  },
+  {
+    "ageRange": "58-62",
+    "salaryRange": "100001-150000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 45,
+      "savingsSplit": {
+        "emergencyFund": 10,
+        "shortTerm": 5,
+        "midTerm": 15,
+        "longTerm": 70
+      }
+    }
+  },
+  {
+    "ageRange": "58-62",
+    "salaryRange": "150001+",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 50,
+      "savingsSplit": {
+        "emergencyFund": 10,
+        "shortTerm": 5,
+        "midTerm": 15,
+        "longTerm": 70
+      }
+    }
+  },
+  {
+    "ageRange": "63-67",
+    "salaryRange": "0-15000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 20,
+      "savingsSplit": {
+        "emergencyFund": 10,
+        "shortTerm": 5,
+        "midTerm": 10,
+        "longTerm": 75
+      }
+    }
+  },
+  {
+    "ageRange": "63-67",
+    "salaryRange": "15001-30000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 25,
+      "savingsSplit": {
+        "emergencyFund": 10,
+        "shortTerm": 5,
+        "midTerm": 10,
+        "longTerm": 75
+      }
+    }
+  },
+  {
+    "ageRange": "63-67",
+    "salaryRange": "30001-50000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 30,
+      "savingsSplit": {
+        "emergencyFund": 10,
+        "shortTerm": 5,
+        "midTerm": 10,
+        "longTerm": 75
+      }
+    }
+  },
+  {
+    "ageRange": "63-67",
+    "salaryRange": "50001-75000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 35,
+      "savingsSplit": {
+        "emergencyFund": 10,
+        "shortTerm": 5,
+        "midTerm": 10,
+        "longTerm": 75
+      }
+    }
+  },
+  {
+    "ageRange": "63-67",
+    "salaryRange": "75001-100000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 40,
+      "savingsSplit": {
+        "emergencyFund": 10,
+        "shortTerm": 5,
+        "midTerm": 10,
+        "longTerm": 75
+      }
+    }
+  },
+  {
+    "ageRange": "63-67",
+    "salaryRange": "100001-150000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 45,
+      "savingsSplit": {
+        "emergencyFund": 10,
+        "shortTerm": 5,
+        "midTerm": 10,
+        "longTerm": 75
+      }
+    }
+  },
+  {
+    "ageRange": "63-67",
+    "salaryRange": "150001+",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 50,
+      "savingsSplit": {
+        "emergencyFund": 10,
+        "shortTerm": 5,
+        "midTerm": 10,
+        "longTerm": 75
+      }
+    }
+  },
+  {
+    "ageRange": "68+",
+    "salaryRange": "0-15000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 20,
+      "savingsSplit": {
+        "emergencyFund": 20,
+        "shortTerm": 5,
+        "midTerm": 10,
+        "longTerm": 65
+      }
+    }
+  },
+  {
+    "ageRange": "68+",
+    "salaryRange": "15001-30000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 25,
+      "savingsSplit": {
+        "emergencyFund": 20,
+        "shortTerm": 5,
+        "midTerm": 10,
+        "longTerm": 65
+      }
+    }
+  },
+  {
+    "ageRange": "68+",
+    "salaryRange": "30001-50000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 30,
+      "savingsSplit": {
+        "emergencyFund": 20,
+        "shortTerm": 5,
+        "midTerm": 10,
+        "longTerm": 65
+      }
+    }
+  },
+  {
+    "ageRange": "68+",
+    "salaryRange": "50001-75000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 35,
+      "savingsSplit": {
+        "emergencyFund": 20,
+        "shortTerm": 5,
+        "midTerm": 10,
+        "longTerm": 65
+      }
+    }
+  },
+  {
+    "ageRange": "68+",
+    "salaryRange": "75001-100000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 40,
+      "savingsSplit": {
+        "emergencyFund": 20,
+        "shortTerm": 5,
+        "midTerm": 10,
+        "longTerm": 65
+      }
+    }
+  },
+  {
+    "ageRange": "68+",
+    "salaryRange": "100001-150000",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 45,
+      "savingsSplit": {
+        "emergencyFund": 20,
+        "shortTerm": 5,
+        "midTerm": 10,
+        "longTerm": 65
+      }
+    }
+  },
+  {
+    "ageRange": "68+",
+    "salaryRange": "150001+",
+    "budget": {
+      "expenses": {
+        "food": 35,
+        "transport": 20,
+        "medical": 10,
+        "personal": 10,
+        "miscellaneous": 5
+      },
+      "savings": 50,
+      "savingsSplit": {
+        "emergencyFund": 20,
+        "shortTerm": 5,
+        "midTerm": 10,
+        "longTerm": 65
+      }
+    }
+  }
+]
