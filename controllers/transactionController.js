@@ -1,10 +1,10 @@
 const Transaction = require('../models/transactionModel');
 
-// Add a new transaction
+// Add a new transaction linked to the logged-in user
 const addTransaction = async (req, res) => {
   try {
     const transaction = new Transaction({
-      userId: req.user._id,         // Ensure transaction is linked to the logged-in user
+      userId: req.user._id,
       type: req.body.type,
       amount: req.body.amount,
       category: req.body.category,
@@ -19,7 +19,7 @@ const addTransaction = async (req, res) => {
   }
 };
 
-// Get all transactions for the logged-in user
+// Get all transactions of the logged-in user
 const getTransactions = async (req, res) => {
   try {
     const transactions = await Transaction.find({ userId: req.user._id }).sort({ date: -1 });
@@ -29,13 +29,10 @@ const getTransactions = async (req, res) => {
   }
 };
 
-// Delete a transaction (only if it belongs to the user)
+// Delete a transaction if it belongs to logged-in user
 const deleteTransaction = async (req, res) => {
   try {
-    const deleted = await Transaction.findOneAndDelete({
-      _id: req.params.id,
-      userId: req.user._id
-    });
+    const deleted = await Transaction.findOneAndDelete({ _id: req.params.id, userId: req.user._id });
 
     if (!deleted) {
       return res.status(404).json({ message: 'Transaction not found or unauthorized' });
@@ -47,7 +44,7 @@ const deleteTransaction = async (req, res) => {
   }
 };
 
-// Update a transaction (only if it belongs to the user)
+// Update a transaction if it belongs to logged-in user
 const updateTransaction = async (req, res) => {
   try {
     const updated = await Transaction.findOneAndUpdate(
@@ -70,5 +67,5 @@ module.exports = {
   addTransaction,
   getTransactions,
   deleteTransaction,
-  updateTransaction
+  updateTransaction,
 };
