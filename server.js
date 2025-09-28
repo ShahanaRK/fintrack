@@ -9,10 +9,11 @@ connectDb();
 const routes = require('./routes/userRoute');
 const transactionRoutes = require('./routes/transactionRoute');
 const goalRoutes = require('./routes/goalRoute');
-
 const app = express();
 const budgetRoute = require('./routes/budget');
 const rateLimit = require('express-rate-limit');
+const backupRoute = require('./routes/backupRoute');
+const rewardRoute = require('./routes/rewardRoute');
 
 // Define rate limiter for login route: max 5 attempts per 15 minutes per IP
 const loginLimiter = rateLimit({
@@ -20,15 +21,24 @@ const loginLimiter = rateLimit({
   max: 5, // Limit each IP to 5 login requests per window
   message: 'Too many login attempts from this IP, please try again after 15 minutes'
 });
+// Define rate limit rule: max 100 requests per 15 minutes per IP
+const apiLimiter = rateLimit({
+  windowMs: 15 * 60 * 1000, // 15 mins
+  max: 100,
+  message: 'Too many requests from this IP, please try again after 15 minutes'
+});
 
 app.use(morgan('dev'));
 app.use(express.json());
 app.use(cors());
+app.use('/api/', apiLimiter);
 app.use('/api/users/login', loginLimiter);
 app.use('/api/v1/users', routes);
 app.use('/api/v1/transactions',transactionRoutes);
 app.use('/api/v1/goals',goalRoutes);
 app.use('/api/budget', budgetRoute);
+app.use('/api/v1', backupRoute);
+app.use('/api/v1', rewardRoute);
 // Add this AFTER all app.use(...) and route definitions
 app.use((err, req, res, next) => {
   if (err instanceof SyntaxError && err.status === 400 && 'body' in err) {

@@ -21,17 +21,17 @@
   },
   {
     "ageRange": "18-22",
-    "salaryRange": "15001-30000",
-    "budget": {
-      "expenses": {
-        "food": 35,
-        "transport": 20,
+    "salaryRange": "15001-30000",  
+        "budget":{
+          "expenses":{
+        "food":30,
+        "transport":20,    
         "medical": 10,
         "personal": 10,
         "miscellaneous": 5
       },
       "savings": 25,
-      "savingsSplit": {
+      "savingsSplit":{
         "emergencyFund": 45,
         "shortTerm": 35,
         "midTerm": 15,

@@ -13,3 +13,10 @@ router.get('/profile', protect, getProfile);
 router.delete('/:id',deleteController)
 
 module.exports = router;
+
+//totp
+const { generateSecret, verifyToken } = require('../controllers/totpController');
+router.post('/totp/setup', generateSecret); // Generate secret and QR code URL
+router.post('/totp/verify', verifyToken);   // Verify TOTP with user input
+
+module.exports = router;

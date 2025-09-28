@@ -1,6 +1,7 @@
 const bcrypt = require('bcrypt');
 const userModel = require('../models/userModel');
 const generateToken = require('../utils/generateToken');
+const { mapSalaryToRange } = require('../utils/mapToRange');
 
 // Login existing user
 const loginController = async (req, res) => {
@@ -14,7 +15,7 @@ const loginController = async (req, res) => {
 
     // Check if account is locked
     if (user.lockUntil && user.lockUntil > Date.now()) {
-      return res.status(423).json({ message: "Account locked. Try again later." });
+      return res.status(423).json({ message: "Account locked. Try again later after 15 minutes." });
     }
 
     const isMatch = await bcrypt.compare(password, user.password);
@@ -51,7 +52,7 @@ const registerController = async (req, res) => {
   try {
     const { name, phone, password, age, familySize, earningMembers, monthlyIncome, fixedExpenses } = req.body;
 
-    if (!name || !phone || !password || !age || !familySize || !earningMembers || !monthlyIncome || !fixedExpenses) {
+    if (!name || !phone || !password || !age || !familySize || !earningMembers || !fixedExpenses) {
       return res.status(400).send("All fields are required");
     }
 
@@ -59,8 +60,9 @@ const registerController = async (req, res) => {
     if (existingUser) {
       return res.status(409).json("User already exists");
     }
-
-    const newUser = new userModel({ name, phone, password, age, familySize, earningMembers, monthlyIncome, fixedExpenses });
+    const variableExpense = monthlyIncome - fixedExpenses;
+    const variableExpenseRange = mapSalaryToRange(variableExpense);
+    const newUser = new userModel({ name, phone, password, age, familySize, earningMembers, fixedExpenses, variableExpenseRange });
     await newUser.save();
 
     const token = generateToken(newUser._id);

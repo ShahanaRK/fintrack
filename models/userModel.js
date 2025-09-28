@@ -48,11 +48,7 @@ const userSchema = new mongoose.Schema({
       message: 'Earning members cannot exceed family size'
     }
   },
-  monthlyIncome: {
-    type: Number,
-    required: true,
-    min: [0, 'Monthly income cannot be negative']
-  },
+ 
   fixedExpenses: {
     type: Number,
     required: true,
@@ -64,6 +60,24 @@ const userSchema = new mongoose.Schema({
       message: 'Fixed expenses cannot exceed monthly income'
     }
   },
+  variableExpenseRange: {
+  type: String,
+  enum: ["0-15000", "15001-30000", "30001-50000", "50001-75000", "75001-100000", "100001-150000", "150001+"],
+  required: true,
+},
+points: {
+    type: Number,
+    default: 0,
+  },
+
+  badges: 
+    {
+      name: String,
+      description: String,
+      achievedOn: Date
+    },
+
+
   failedLoginAttempts: {
     type: Number,
     default: 0
@@ -73,6 +87,7 @@ const userSchema = new mongoose.Schema({
     default: null
   }
 }, { timestamps: true });
+
 
 userSchema.pre('save', async function(next) {
   if (!this.isModified('password')) {
