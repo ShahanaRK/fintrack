@@ -26,9 +26,9 @@
           "expenses":{
         "food":30,
         "transport":20,    
-        "medical": 10,
-        "personal": 10,
-        "miscellaneous": 5
+        "medical": 20,
+        "personal": 20,
+        "miscellaneous": 10
       },
       "savings": 25,
       "savingsSplit":{
@@ -46,9 +46,9 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
-        "miscellaneous": 5
+        "medical": 15,
+        "personal": 20,
+        "miscellaneous": 10
       },
       "savings": 30,
       "savingsSplit": {
@@ -66,9 +66,9 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
-        "miscellaneous": 5
+        "medical": 20,
+        "personal": 15,
+        "miscellaneous": 10
       },
       "savings": 35,
       "savingsSplit": {
@@ -86,9 +86,9 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
-        "miscellaneous": 5
+        "medical": 20,
+        "personal": 15,
+        "miscellaneous": 10
       },
       "savings": 40,
       "savingsSplit": {
@@ -106,9 +106,9 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
-        "miscellaneous": 5
+        "medical": 20,
+        "personal": 15,
+        "miscellaneous": 10
       },
       "savings": 45,
       "savingsSplit": {
@@ -126,9 +126,9 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
-        "miscellaneous": 5
+        "medical": 20,
+        "personal": 15,
+        "miscellaneous": 10
       },
       "savings": 50,
       "savingsSplit": {
@@ -146,9 +146,9 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
-        "miscellaneous": 5
+        "medical": 15,
+        "personal":20,
+        "miscellaneous": 10
       },
       "savings": 20,
       "savingsSplit": {
@@ -166,14 +166,14 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
-        "miscellaneous": 5
+        "medical": 15,
+        "personal": 20,
+        "miscellaneous": 10
       },
       "savings": 25,
       "savingsSplit": {
         "emergencyFund": 35,
-        "shortTerm": 50,
+        "shortTerm": 40,
         "midTerm": 20,
         "longTerm": 5
       }
@@ -186,9 +186,9 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
-        "miscellaneous": 5
+        "medical": 15,
+        "personal": 20,
+        "miscellaneous": 10
       },
       "savings": 30,
       "savingsSplit": {
@@ -206,9 +206,9 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
-        "miscellaneous": 5
+        "medical": 15,
+        "personal": 20,
+        "miscellaneous": 10
       },
       "savings": 35,
       "savingsSplit": {
@@ -226,9 +226,9 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
-        "miscellaneous": 5
+        "medical": 15,
+        "personal": 20,
+        "miscellaneous": 10
       },
       "savings": 40,
       "savingsSplit": {
@@ -246,9 +246,9 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
-        "miscellaneous": 5
+        "medical": 15,
+        "personal": 20,
+        "miscellaneous": 10
       },
       "savings": 45,
       "savingsSplit": {
@@ -266,9 +266,9 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
-        "miscellaneous": 5
+        "medical": 15,
+        "personal": 20,
+        "miscellaneous": 10
       },
       "savings": 50,
       "savingsSplit": {
@@ -286,8 +286,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 20,
+        "personal": 20,
         "miscellaneous": 5
       },
       "savings": 20,
@@ -306,8 +306,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 20,
+        "personal": 20,
         "miscellaneous": 5
       },
       "savings": 25,
@@ -326,8 +326,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 20,
+        "personal": 20,
         "miscellaneous": 5
       },
       "savings": 30,
@@ -346,8 +346,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 20,
+        "personal": 20,
         "miscellaneous": 5
       },
       "savings": 35,
@@ -366,8 +366,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 20,
+        "personal": 20,
         "miscellaneous": 5
       },
       "savings": 40,
@@ -386,8 +386,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 20,
+        "personal": 20,
         "miscellaneous": 5
       },
       "savings": 45,
@@ -406,8 +406,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 20,
+        "personal": 20,
         "miscellaneous": 5
       },
       "savings": 50,
@@ -426,8 +426,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 20,
+        "personal": 20,
         "miscellaneous": 5
       },
       "savings": 20,
@@ -446,8 +446,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 20,
+        "personal": 20,
         "miscellaneous": 5
       },
       "savings": 25,
@@ -466,8 +466,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 20,
+        "personal": 20,
         "miscellaneous": 5
       },
       "savings": 30,
@@ -486,8 +486,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 20,
+        "personal":20,
         "miscellaneous": 5
       },
       "savings": 35,
@@ -506,8 +506,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 20,
+        "personal": 20,
         "miscellaneous": 5
       },
       "savings": 40,
@@ -526,8 +526,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 20,
+        "personal": 20,
         "miscellaneous": 5
       },
       "savings": 45,
@@ -546,8 +546,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 20,
+        "personal": 20,
         "miscellaneous": 5
       },
       "savings": 50,
@@ -566,8 +566,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 25,
+        "personal": 15,
         "miscellaneous": 5
       },
       "savings": 20,
@@ -586,8 +586,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 25,
+        "personal": 15,
         "miscellaneous": 5
       },
       "savings": 25,
@@ -606,8 +606,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 25,
+        "personal": 15,
         "miscellaneous": 5
       },
       "savings": 30,
@@ -626,8 +626,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 25,
+        "personal": 15,
         "miscellaneous": 5
       },
       "savings": 35,
@@ -646,8 +646,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 25,
+        "personal": 15,
         "miscellaneous": 5
       },
       "savings": 40,
@@ -666,8 +666,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 25,
+        "personal": 15,
         "miscellaneous": 5
       },
       "savings": 45,
@@ -686,8 +686,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 25,
+        "personal": 15,
         "miscellaneous": 5
       },
       "savings": 50,
@@ -706,8 +706,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 25,
+        "personal": 15,
         "miscellaneous": 5
       },
       "savings": 20,
@@ -726,8 +726,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 25,
+        "personal": 15,
         "miscellaneous": 5
       },
       "savings": 25,
@@ -746,8 +746,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 25,
+        "personal": 15,
         "miscellaneous": 5
       },
       "savings": 30,
@@ -766,8 +766,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 25,
+        "personal": 15,
         "miscellaneous": 5
       },
       "savings": 35,
@@ -786,8 +786,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 25,
+        "personal": 15,
         "miscellaneous": 5
       },
       "savings": 40,
@@ -806,8 +806,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 25,
+        "personal": 15,
         "miscellaneous": 5
       },
       "savings": 45,
@@ -826,8 +826,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 25,
+        "personal": 15,
         "miscellaneous": 5
       },
       "savings": 50,
@@ -846,8 +846,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 25,
+        "personal": 15,
         "miscellaneous": 5
       },
       "savings": 20,
@@ -866,8 +866,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 25,
+        "personal": 15,
         "miscellaneous": 5
       },
       "savings": 25,
@@ -886,8 +886,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 25,
+        "personal": 15,
         "miscellaneous": 5
       },
       "savings": 30,
@@ -906,8 +906,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 25,
+        "personal": 15,
         "miscellaneous": 5
       },
       "savings": 35,
@@ -926,8 +926,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 25,
+        "personal": 15,
         "miscellaneous": 5
       },
       "savings": 40,
@@ -946,8 +946,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 25,
+        "personal": 15,
         "miscellaneous": 5
       },
       "savings": 45,
@@ -966,8 +966,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 25,
+        "personal": 15,
         "miscellaneous": 5
       },
       "savings": 50,
@@ -986,8 +986,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 25,
+        "personal": 15,
         "miscellaneous": 5
       },
       "savings": 20,
@@ -1006,8 +1006,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 25,
+        "personal": 15,
         "miscellaneous": 5
       },
       "savings": 25,
@@ -1026,8 +1026,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 25,
+        "personal": 15,
         "miscellaneous": 5
       },
       "savings": 30,
@@ -1046,8 +1046,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 25,
+        "personal": 15,
         "miscellaneous": 5
       },
       "savings": 35,
@@ -1066,8 +1066,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 25,
+        "personal": 15,
         "miscellaneous": 5
       },
       "savings": 40,
@@ -1086,8 +1086,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 25,
+        "personal": 15,
         "miscellaneous": 5
       },
       "savings": 45,
@@ -1106,8 +1106,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 25,
+        "personal": 15,
         "miscellaneous": 5
       },
       "savings": 50,
@@ -1126,8 +1126,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 25,
+        "personal": 15,
         "miscellaneous": 5
       },
       "savings": 20,
@@ -1146,8 +1146,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 25,
+        "personal": 15,
         "miscellaneous": 5
       },
       "savings": 25,
@@ -1166,8 +1166,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 25,
+        "personal": 15,
         "miscellaneous": 5
       },
       "savings": 30,
@@ -1186,8 +1186,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 25,
+        "personal": 15,
         "miscellaneous": 5
       },
       "savings": 35,
@@ -1206,8 +1206,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 25,
+        "personal": 15,
         "miscellaneous": 5
       },
       "savings": 40,
@@ -1226,8 +1226,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 25,
+        "personal": 15,
         "miscellaneous": 5
       },
       "savings": 45,
@@ -1246,8 +1246,8 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
-        "personal": 10,
+        "medical": 25,
+        "personal": 15,
         "miscellaneous": 5
       },
       "savings": 50,
@@ -1266,7 +1266,7 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
+        "medical": 30,
         "personal": 10,
         "miscellaneous": 5
       },
@@ -1286,7 +1286,7 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
+        "medical": 30,
         "personal": 10,
         "miscellaneous": 5
       },
@@ -1306,7 +1306,7 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
+        "medical": 30,
         "personal": 10,
         "miscellaneous": 5
       },
@@ -1326,7 +1326,7 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
+        "medical": 30,
         "personal": 10,
         "miscellaneous": 5
       },
@@ -1346,7 +1346,7 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
+        "medical": 30,
         "personal": 10,
         "miscellaneous": 5
       },
@@ -1366,7 +1366,7 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
+        "medical": 30,
         "personal": 10,
         "miscellaneous": 5
       },
@@ -1386,7 +1386,7 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
+        "medical": 30,
         "personal": 10,
         "miscellaneous": 5
       },
@@ -1406,7 +1406,7 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
+        "medical": 30,
         "personal": 10,
         "miscellaneous": 5
       },
@@ -1426,7 +1426,7 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
+        "medical": 30,
         "personal": 10,
         "miscellaneous": 5
       },
@@ -1446,7 +1446,7 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
+        "medical": 30,
         "personal": 10,
         "miscellaneous": 5
       },
@@ -1466,7 +1466,7 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
+        "medical": 30,
         "personal": 10,
         "miscellaneous": 5
       },
@@ -1486,7 +1486,7 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
+        "medical": 30,
         "personal": 10,
         "miscellaneous": 5
       },
@@ -1506,7 +1506,7 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
+        "medical": 30,
         "personal": 10,
         "miscellaneous": 5
       },
@@ -1526,7 +1526,7 @@
       "expenses": {
         "food": 35,
         "transport": 20,
-        "medical": 10,
+        "medical": 30,
         "personal": 10,
         "miscellaneous": 5
       },
