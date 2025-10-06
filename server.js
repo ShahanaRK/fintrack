@@ -1,3 +1,6 @@
+const fs = require('fs');
+console.log('Current working directory:', process.cwd());
+console.log('Files here:', fs.readdirSync(process.cwd()));
 const express = require('express');
 const cors = require('cors');
 const morgan = require('morgan');
