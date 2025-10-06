@@ -7,7 +7,7 @@ const morgan = require('morgan');
 const dotenv = require('dotenv');
 dotenv.config();
 const colors = require('colors');
-const connectDb = require('./config/connectDB');
+const connectDb = require('./config/connectDb');
 connectDb();
 const routes = require('./routes/userRoute');
 const transactionRoutes = require('./routes/transactionRoute');
