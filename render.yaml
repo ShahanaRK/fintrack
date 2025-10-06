@@ -2,5 +2,6 @@ services:
   - type: web
     name: finora-api
     env: node
+    root: .
     buildCommand: npm install
     startCommand: node server.js
